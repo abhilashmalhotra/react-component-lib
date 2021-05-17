@@ -1,2 +1,3 @@
-export * from './components/Repositories/Repositories'
-export * from './components/Button/Button'
+import { Repositories } from './components/Repositories/Repositories';
+
+export { Repositories }
